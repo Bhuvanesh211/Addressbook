@@ -58,12 +58,12 @@ The Address Book project is implemented using the following C programming featur
     git clone <repository-url>
     ```
 2. Compile the C program:
-    ```bash
-    gcc address_book.c -o address_book
+    ```
+    gcc *.c -o address_book
     ```
 3. Run the program:
-    ```bash
-    ./address_book
+    ```
+    ./address_book.exe
     ```
 
 ## Future Enhancements
